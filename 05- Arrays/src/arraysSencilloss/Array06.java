@@ -1,4 +1,4 @@
-package arraysSencillos;
+package arraysSencilloss;
 
 
 public class Array06 {

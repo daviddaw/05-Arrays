@@ -1,4 +1,4 @@
-package arraysSencillos;
+package arraysSencilloss;
 
 import java.util.Scanner;
 
